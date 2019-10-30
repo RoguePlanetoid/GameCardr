@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<body>
+  <div class="XbcGamercard">
+    <div class="Header">
+
+      <div class="Gamertag">
+        <a href="/en-GB/MyXbox/Profile?gamertag=RoguePlanetoid">
+          <span class="Gold">RoguePlanetoid</span>
+        </a>
+      </div>
+    </div>
+    <div class="Body">
+      <a href="/en-GB/MyXbox/Profile?gamertag=RoguePlanetoid">
+        <img class="GamerPic" width="64" height="64" src="http://image.xboxlive.com/global/t.475207f5/tile/0/2804a" alt="Xbox LIVE Event Registrations" title="Xbox LIVE Event Registrations"/>
+      </a>
+      <div class="Stats">
+        <div style="height:30px; line-height:30px;">
+          <div class="Stat">Rep</div>
+
+          <div class="Star Full"></div>
+
+          <div class="Star Full"></div>
+
+          <div class="Star Full"></div>
+
+          <div class="Star Full"></div>
+
+          <div class="Star Full"></div>
+
+        </div>
+        <div style="height:30px; line-height:30px;">
+          <div class="Stat">
+            <div class="GSIcon"></div>
+            <div class="Stat">10357</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="Footer">
+
+      <a href="/en-GB/GameCenter/Achievements?titleId=1297287144&amp;compareTo=RoguePlanetoid">
+        <img class="Game" width="32" height="32" src="http://tiles.xbox.com/tiles/DX/MN/0Gdsb2JhbA9ECgR8GgMfWSpbL2ljb24vMC84MDAwIAAAAAAAAP8icxI=.jpg" alt="Mass Effect" title="Mass Effect" />
+      </a>
+
+      <a href="/en-GB/GameCenter/Achievements?titleId=1112737760&amp;compareTo=RoguePlanetoid">
+        <img class="Game" width="32" height="32" src="http://tiles.xbox.com/tiles/2Z/ZD/02dsb2JhbA9ECgQKGgMfWSpTL2ljb24vMC84MDAwIAAAAAAAAPxslsY=.jpg" alt="Fallout: New Vegas" title="Fallout: New Vegas" />
+      </a>
+
+      <a href="/en-GB/GameCenter/Achievements?titleId=1297287374&amp;compareTo=RoguePlanetoid">
+        <img class="Game" width="32" height="32" src="http://tiles.xbox.com/tiles/Dz/Fl/12dsb2JhbA9ECgR8GgMfViwmL2ljb24vMC84MDAwIAAAAAAAAPhKMRA=.jpg" alt="Halo Waypoint" title="Halo Waypoint" />
+      </a>
+
+      <a href="/en-GB/GameCenter/Achievements?titleId=1297287347&amp;compareTo=RoguePlanetoid">
+        <img class="Game" width="32" height="32" src="http://tiles.xbox.com/tiles/o5/wd/1Gdsb2JhbA9ECgR8GgMfVi1QL2ljb24vMC84MDAwIAAAAAAAAPsynLw=.jpg" alt="Kinectimals" title="Kinectimals" />
+      </a>
+
+      <a href="/en-GB/GameCenter/Achievements?titleId=1297287259&amp;compareTo=RoguePlanetoid">
+        <img class="Game" width="32" height="32" src="http://tiles.xbox.com/tiles/ih/ew/0Wdsb2JhbA9ECgR8GgMfVlohL2ljb24vMC84MDAwIAAAAAAAAP6fF5U=.jpg" alt="Halo: Reach" title="Halo: Reach" />
+      </a>
+
+    </div>
+
+  </div>
+</body>
+
